@@ -3,24 +3,25 @@ body {
     margin: 0;
 }
 
-#titlebar  {
-    width: 100%;
-    height: 2em;
-    background-color: gray;
-    padding: 0;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
+html {
+    background-color: black;
 }
 
-#titlebar > a  {
-    padding-left: 1em;
-    background: transparent;
-    border: none;
-    color: whitesmoke;
-    transition: color 100ms;
-    text-decoration: none;
+#titlebar {
+	border-bottom: 2px solid white;
+	display: flex;
+	flex-direction: row;
+	align-content: center;	
 }
-#titlebar > a:hover {
-    color: turquoise;
+
+#titlebar * {
+	padding-right: 30px;
+	padding-left:  30px;
+ 	align-self: center;
 }
+
+h1, h2, h3, h4, h5, p {
+	font-family: 'DejaVu Sans Mono', monospace;
+	color: white;
+}
+

@@ -1,6 +1,7 @@
 
 
 h1,h2 {
+    text-align: center;
     font-family: 'DejaVu Sans Mono', monospace;
     color: white;
 }
@@ -10,16 +11,36 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
 }
+
 #boxes {
+    flex-grow: 2;
+    width: 100%;
+   
     display: flex;
     flex-direction: row;
+    justify-content: space-evenly;
+    align-content: center;
+    align-items: center;
 }
 
 article {
+    margin-bottom: auto;
+    /*margin-top: auto;*/
     border: 2px solid white;
-    padding: 5px;
+    padding: 10px;
     border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    height: auto;
+}
+article h2 {
+	text-align: center;
+}
+article form label span {
+	text-align: center;
 }
 article form label {
     display: flex;
@@ -27,6 +48,8 @@ article form label {
     padding: 3px;
 }
 article form label input {
+    padding-left: 5px;
+    padding-right: 5px;
     margin: 3px;
     transition: background-color 100ms;
     height: 2em;

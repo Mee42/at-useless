@@ -17,8 +17,19 @@
             <input class="input" id="signin-username" type="text" placeholder="username"/>
             <input class="input" id="signin-password" type="text" placeholder="password"/>
             <input type="submit" value="submit" onclick="window.kotlin.signInFormCall()">
-            <span id="signin-error-text" class="errored">This is the text that appears when you make an error</span>
+            <span id="signin-error-text">error</span>
         </label></form>
+    </article>
+    <article>
+	    <h2>Register</h2>
+	    <form id="register-form" onsubmit="return false"><label>
+	       <input type="input" id="register-username"  type="text" placeholder="username"/>
+	       <input type="input" id="register-password"  type="text" placeholder="password"/>
+	       <input type="input" id="register-password2" type="text" placeholder="repeat password"/>
+               <input type="input" id="register-identifier" type="text" placeholder="identifing information"/>
+               <input type="submit" value="submit" onclick="window.kotlin.registerFormCall()"/>
+	       <span id="register-error-text">error</span>
+            </label></form>	       
     </article>
 </div>
 </body>
