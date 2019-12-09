@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="delete-this-its-just-for-testing-js">
+    <output-path>$PROJECT_DIR$/../delete-this-its-just-for-testing/build/libs</output-path>
+    <root id="archive" name="delete-this-its-just-for-testing-js.jar" />
+  </artifact>
+</component>

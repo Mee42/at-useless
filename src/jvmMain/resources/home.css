@@ -1,0 +1,49 @@
+
+
+h1,h2 {
+    font-family: 'DejaVu Sans Mono', monospace;
+    color: white;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#boxes {
+    display: flex;
+    flex-direction: row;
+}
+
+article {
+    border: 2px solid white;
+    padding: 5px;
+    border-radius: 10px;
+}
+article form label {
+    display: flex;
+    flex-direction: column;
+    padding: 3px;
+}
+article form label input {
+    margin: 3px;
+    transition: background-color 100ms;
+    height: 2em;
+}
+article form label input.errored.input {
+    border: 2px solid red;
+}
+
+article form label span {
+    display: none;
+    color: red;
+}
+article form label span.errored {
+    display: block;
+}
+
+
+html {
+    background-color: black;
+}

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="chat.mee42-js">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="chat.mee42-js.jar">
+      <element id="module-output" name="chat.mee42.jsMain" />
+    </root>
+  </artifact>
+</component>

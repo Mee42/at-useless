@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="delete-this-its-just-for-testing.jvmMain" target="1.6" />
+      <module name="delete-this-its-just-for-testing.jvmTest" target="1.6" />
+      <module name="delete-this-its-just-for-testing_jvmMain" target="1.6" />
+      <module name="delete-this-its-just-for-testing_jvmTest" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

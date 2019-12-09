@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba159991-6365-4341-9189-eb035469064c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../delete-this-its-just-for-testing">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="chat.mee42" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="chat.mee42" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="chat.mee42" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="chat.mee42" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="chat.mee42" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="nodejs" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="chat.mee42" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="KonanWorkspace" KOTLIN_NATIVE_HOME="$USER_HOME$/.konan/kotlin-native-linux-1.3.61">
+    <executables />
+  </component>
+  <component name="ProjectId" id="1UiH6Jy2wmqCkRgY7aQw5Xht3XB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="/opt/android-sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/commonMain/kotlin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/jsMain/kotlin/dev.mee42" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.chat.mee42 [run]">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chat.mee42 [compileTestKotlinJvm]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="compileTestKotlinJvm" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="chat.mee42 [jsBrowserWebpack]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jsBrowserWebpack" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="chat.mee42 [jsRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jsRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="chat.mee42 [jvmJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jvmJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="chat.mee42 [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.chat.mee42 [jsBrowserWebpack]" />
+      <item itemvalue="Gradle.chat.mee42 [jsRun]" />
+      <item itemvalue="Gradle.chat.mee42 [compileTestKotlinJvm]" />
+      <item itemvalue="Gradle.chat.mee42 [jvmJar]" />
+      <item itemvalue="Gradle.chat.mee42 [run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.chat.mee42 [run]" />
+        <item itemvalue="Gradle.chat.mee42 [jvmJar]" />
+        <item itemvalue="Gradle.chat.mee42 [compileTestKotlinJvm]" />
+        <item itemvalue="Gradle.chat.mee42 [jsRun]" />
+        <item itemvalue="Gradle.chat.mee42 [jsBrowserWebpack]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba159991-6365-4341-9189-eb035469064c" name="Default Changelist" comment="" />
+      <created>1575832318042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575832318042</updated>
+      <workItem from="1575832321068" duration="11133000" />
+      <workItem from="1575843562785" duration="186000" />
+      <workItem from="1575843750885" duration="1386000" />
+      <workItem from="1575851382618" duration="3809000" />
+      <workItem from="1575855441766" duration="105000" />
+      <workItem from="1575855560164" duration="3676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2094" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575855783098">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2094" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575855783098" />
+    <state width="1838" height="395" key="GridCell.Tab.0.bottom" timestamp="1575859416783">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1838" height="395" key="GridCell.Tab.0.bottom/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416783" />
+    <state width="1838" height="395" key="GridCell.Tab.0.center" timestamp="1575859416783">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1838" height="395" key="GridCell.Tab.0.center/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416783" />
+    <state width="1838" height="395" key="GridCell.Tab.0.left" timestamp="1575859416783">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1838" height="395" key="GridCell.Tab.0.left/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416783" />
+    <state width="1838" height="395" key="GridCell.Tab.0.right" timestamp="1575859416783">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1838" height="395" key="GridCell.Tab.0.right/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416783" />
+    <state width="1838" height="392" key="GridCell.Tab.1.bottom" timestamp="1575859416772">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1838" height="392" key="GridCell.Tab.1.bottom/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416772" />
+    <state width="1838" height="392" key="GridCell.Tab.1.center" timestamp="1575859416771">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1838" height="392" key="GridCell.Tab.1.center/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416771" />
+    <state width="1838" height="392" key="GridCell.Tab.1.left" timestamp="1575859416771">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1838" height="392" key="GridCell.Tab.1.left/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416771" />
+    <state width="1838" height="392" key="GridCell.Tab.1.right" timestamp="1575859416771">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1838" height="392" key="GridCell.Tab.1.right/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416771" />
+    <state x="2426" y="345" width="417" height="428" key="chooseDestDirectoryDialog" timestamp="1575837943352">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2426" y="345" width="417" height="428" key="chooseDestDirectoryDialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575837943352" />
+    <state x="1963" y="292" width="1343" height="534" key="new project wizard" timestamp="1575843453942">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state x="1963" y="292" width="1343" height="534" key="new project wizard/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575843453942" />
+    <state x="2302" y="271" key="run.anything.popup" timestamp="1575851655299">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2302" y="271" key="run.anything.popup/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575851655299" />
+  </component>
+</project>

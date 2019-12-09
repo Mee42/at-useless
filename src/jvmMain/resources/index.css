@@ -1,0 +1,26 @@
+
+body {
+    margin: 0;
+}
+
+#titlebar  {
+    width: 100%;
+    height: 2em;
+    background-color: gray;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#titlebar > a  {
+    padding-left: 1em;
+    background: transparent;
+    border: none;
+    color: whitesmoke;
+    transition: color 100ms;
+    text-decoration: none;
+}
+#titlebar > a:hover {
+    color: turquoise;
+}

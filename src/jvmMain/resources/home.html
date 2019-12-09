@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="us">
+<head>
+    <title>chat@mee42</title>
+    <link rel="stylesheet" type="text/css" href="home.css" media="screen"/>
+    <script type="text/javascript" src="static/chat.mee42.js"></script>
+    </head>
+<body>
+<h1>
+    chat@mee42, a chat webapp that serves no real purpose
+</h1>
+
+<div id="boxes">
+    <article id="signin">
+        <h2>Sign In</h2>
+        <form id="signin-form" onsubmit="return false"><label>
+            <input class="input" id="signin-username" type="text" placeholder="username"/>
+            <input class="input" id="signin-password" type="text" placeholder="password"/>
+            <input type="submit" value="submit" onclick="window.kotlin.signInFormCall()">
+            <span id="signin-error-text" class="errored">This is the text that appears when you make an error</span>
+        </label></form>
+    </article>
+</div>
+</body>
+</html>
