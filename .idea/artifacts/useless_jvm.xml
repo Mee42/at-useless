@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="useless-jvm">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="useless-jvm.jar">
+      <element id="module-output" name="useless.jvmMain" />
+    </root>
+  </artifact>
+</component>

@@ -11,4 +11,6 @@ object Params {
     val debugMode = loadedFile["debug"] as Boolean
     val version = loadedFile["version"] as String
     val prettyJson = loadedFile["prettyJson"] as Boolean
+    val databaseFile = loadedFile["db"] as String
+    val bcryptIterations = loadedFile["bcryptIterations"] as Int
 }

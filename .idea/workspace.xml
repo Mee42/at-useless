@@ -1,11 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba159991-6365-4341-9189-eb035469064c" name="Default Changelist" comment="" />
+    <list default="true" id="ba159991-6365-4341-9189-eb035469064c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/@useless.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/useless_js.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/useless_jvm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/useless.commonMain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/useless.commonTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/useless.jsMain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/useless.jsTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/useless.jvmMain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/useless.jvmTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/dev/mee42/Either.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42/Auth.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42/DatabaseManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/chat_mee42_js.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/chat_mee42_js.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/chat_mee42_jvm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/chat_mee42_jvm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/carson.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/carson.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/chat.mee42.commonMain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/chat.mee42.commonMain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/chat.mee42.commonTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/chat.mee42.commonTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/chat.mee42.jsMain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/chat.mee42.jsMain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/chat.mee42.jsTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/chat.mee42.jsTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/chat.mee42.jvmMain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/chat.mee42.jvmMain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/chat.mee42.jvmTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/chat.mee42.jvmTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commonMain/kotlin/dev/mee42/JsonObjects.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/commonMain/kotlin/dev/mee42/JsonObjects.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commonTest/kotlin/sample/SampleTests.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jsMain/kotlin/dev.mee42/Home.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jsMain/kotlin/dev.mee42/Home.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jsMain/kotlin/dev.mee42/Util.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jsMain/kotlin/dev.mee42/Util.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jsTest/kotlin/sample/SampleTestsJS.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42/Params.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42/Params.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jvmMain/resources/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/resources/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jvmMain/resources/param.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/resources/param.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jvmTest/kotlin/sample/SampleTestsJVM.kt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="tokens: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="users: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database.db" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -23,41 +120,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="chat.mee42" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="chat.mee42" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="chat.mee42" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="chat.mee42" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build setup" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="chat.mee42" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="nodejs" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="chat.mee42" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="other" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -71,6 +134,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="KonanWorkspace" KOTLIN_NATIVE_HOME="$USER_HOME$/.konan/kotlin-native-linux-1.3.61">
     <executables />
   </component>
@@ -81,12 +147,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql&#10;sqlite" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="/opt/android-sdk" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="kotlin" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/commonMain/kotlin" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -95,11 +165,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15748031" />
+    <property name="project.structure.side.proportion" value="0.33036846" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -128,25 +198,6 @@
         <option name="taskNames">
           <list>
             <option value="compileTestKotlinJvm" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="chat.mee42 [jsBrowserWebpack]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="jsBrowserWebpack" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -218,6 +269,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="scratch_5.kts" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script" temporary="true" nameIsGenerated="true">
+      <module name="chat.mee42.jsMain" />
+      <option name="filePath" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -228,19 +313,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Gradle.chat.mee42 [jsBrowserWebpack]" />
       <item itemvalue="Gradle.chat.mee42 [jsRun]" />
       <item itemvalue="Gradle.chat.mee42 [compileTestKotlinJvm]" />
       <item itemvalue="Gradle.chat.mee42 [jvmJar]" />
       <item itemvalue="Gradle.chat.mee42 [run]" />
+      <item itemvalue="Kotlin script.scratch_5.kts" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.chat.mee42 [run]" />
+        <item itemvalue="Kotlin script.scratch_5.kts" />
         <item itemvalue="Gradle.chat.mee42 [jvmJar]" />
         <item itemvalue="Gradle.chat.mee42 [compileTestKotlinJvm]" />
         <item itemvalue="Gradle.chat.mee42 [jsRun]" />
-        <item itemvalue="Gradle.chat.mee42 [jsBrowserWebpack]" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +334,22 @@
       <list>
         <serviceView>
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:database.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:database.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@31268f23" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:database.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@31e398a9" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -272,6 +372,8 @@
       <workItem from="1575851382618" duration="3809000" />
       <workItem from="1575855441766" duration="105000" />
       <workItem from="1575855560164" duration="3676000" />
+      <workItem from="1575925281647" duration="15000" />
+      <workItem from="1575927538050" duration="17588000" />
     </task>
     <servers />
   </component>
@@ -279,26 +381,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2094" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575855783098">
+    <state x="2233" y="226" width="940" height="728" key="#Project_Structure" timestamp="1575937290699">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state x="2094" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575855783098" />
-    <state width="1838" height="395" key="GridCell.Tab.0.bottom" timestamp="1575859416783">
+    <state x="2233" y="226" width="940" height="728" key="#Project_Structure/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575937290699" />
+    <state x="2084" y="114" width="804" height="667" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575938323475">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="395" key="GridCell.Tab.0.bottom/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416783" />
-    <state width="1838" height="395" key="GridCell.Tab.0.center" timestamp="1575859416783">
+    <state x="2084" y="114" width="804" height="667" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575938323475" />
+    <state x="2421" y="283" width="427" height="552" key="#com.intellij.ide.util.MemberChooser" timestamp="1575930017413">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="395" key="GridCell.Tab.0.center/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416783" />
-    <state width="1838" height="395" key="GridCell.Tab.0.left" timestamp="1575859416783">
+    <state x="2421" y="283" width="427" height="552" key="#com.intellij.ide.util.MemberChooser/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575930017413" />
+    <state x="2417" y="273" width="428" height="500" key="FileChooserDialogImpl" timestamp="1575938315772">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="395" key="GridCell.Tab.0.left/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416783" />
-    <state width="1838" height="395" key="GridCell.Tab.0.right" timestamp="1575859416783">
+    <state x="2417" y="273" width="428" height="500" key="FileChooserDialogImpl/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575938315772" />
+    <state width="1838" height="359" key="GridCell.Tab.0.bottom" timestamp="1575945795291">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="395" key="GridCell.Tab.0.right/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416783" />
+    <state width="1838" height="359" key="GridCell.Tab.0.bottom/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575945795291" />
+    <state width="1838" height="359" key="GridCell.Tab.0.center" timestamp="1575945795291">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1838" height="359" key="GridCell.Tab.0.center/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575945795291" />
+    <state width="1838" height="359" key="GridCell.Tab.0.left" timestamp="1575945795291">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1838" height="359" key="GridCell.Tab.0.left/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575945795291" />
+    <state width="1838" height="359" key="GridCell.Tab.0.right" timestamp="1575945795291">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1838" height="359" key="GridCell.Tab.0.right/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575945795291" />
     <state width="1838" height="392" key="GridCell.Tab.1.bottom" timestamp="1575859416772">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
@@ -315,17 +429,29 @@
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
     <state width="1838" height="392" key="GridCell.Tab.1.right/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416771" />
+    <state x="2221" y="303" width="828" height="513" key="IDE.errors.dialog" timestamp="1575944738522">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2221" y="303" width="828" height="513" key="IDE.errors.dialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575944738522" />
+    <state x="2130" y="91" width="1028" height="835" key="SettingsEditor" timestamp="1575937709304">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2130" y="91" width="1028" height="835" key="SettingsEditor/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575937709304" />
     <state x="2426" y="345" width="417" height="428" key="chooseDestDirectoryDialog" timestamp="1575837943352">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
     <state x="2426" y="345" width="417" height="428" key="chooseDestDirectoryDialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575837943352" />
+    <state x="2418" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575943764511">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2418" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575943764511" />
     <state x="1963" y="292" width="1343" height="534" key="new project wizard" timestamp="1575843453942">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
     <state x="1963" y="292" width="1343" height="534" key="new project wizard/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575843453942" />
-    <state x="2302" y="271" key="run.anything.popup" timestamp="1575851655299">
+    <state x="2302" y="271" width="672" height="677" key="run.anything.popup" timestamp="1575934887473">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state x="2302" y="271" key="run.anything.popup/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575851655299" />
+    <state x="2302" y="271" width="672" height="677" key="run.anything.popup/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575934887473" />
   </component>
 </project>

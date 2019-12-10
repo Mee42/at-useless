@@ -1,8 +1,13 @@
 <component name="ProjectDictionaryState">
   <dictionary name="carson">
     <words>
+      <w>bcrypt</w>
+      <w>discordtag</w>
+      <w>discrim</w>
       <w>gson</w>
+      <w>jdbi</w>
       <w>ktor</w>
+      <w>ratelimit</w>
       <w>sendable</w>
       <w>signin</w>
       <w>titlebar</w>
