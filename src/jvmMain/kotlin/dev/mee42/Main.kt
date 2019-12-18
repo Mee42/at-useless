@@ -78,8 +78,6 @@ private fun Routing.api() {
 
 
 
-
-
 enum class TokenFailureState(val code: HttpStatusCode){
     NOT_PRESENT(HttpStatusCode.Unauthorized),
     MALFORMED(HttpStatusCode.BadRequest),
