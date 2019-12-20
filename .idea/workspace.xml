@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba159991-6365-4341-9189-eb035469064c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jsMain/kotlin/dev.mee42/Home.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jsMain/kotlin/dev.mee42/Home.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvmMain/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/resources/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42/Params.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42/Params.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +90,59 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="useless" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="useless" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="useless" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="useless" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="useless" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="useless" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="useless" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="nodejs" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="useless" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="useless" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -128,11 +194,13 @@
     <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/jsMain/kotlin/dev.mee42" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/jvmMain/resources" />
+      <recent name="$PROJECT_DIR$/res" />
+      <recent name="$PROJECT_DIR$/src/jsMain/kotlin/dev.mee42" />
     </key>
   </component>
   <component name="RunManager" selected="Kotlin.dev.mee42.MainKt">
@@ -142,7 +210,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chat.mee42 [compileTestKotlinJvm]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="@useless [jsMainClasses]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -153,7 +221,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="compileTestKotlinJvm" />
+            <option value="jsMainClasses" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -161,7 +229,26 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="chat.mee42 [jvmJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="@useless [jsPackageJson]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jsPackageJson" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="@useless [jvmJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -180,7 +267,7 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="chat.mee42 [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="@useless [tasks]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -191,7 +278,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="run" />
+            <option value="tasks" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -219,40 +306,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="scratch_5.kts" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script" temporary="true" nameIsGenerated="true">
-      <module name="chat.mee42.jsMain" />
-      <option name="filePath" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.kts" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.kts" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -263,19 +316,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Gradle.chat.mee42 [compileTestKotlinJvm]" />
-      <item itemvalue="Gradle.chat.mee42 [jvmJar]" />
-      <item itemvalue="Gradle.chat.mee42 [run]" />
-      <item itemvalue="Kotlin script.scratch_5.kts" />
+      <item itemvalue="Gradle.@useless [jsMainClasses]" />
+      <item itemvalue="Gradle.@useless [jsPackageJson]" />
       <item itemvalue="Kotlin.dev.mee42.MainKt" />
+      <item itemvalue="Gradle.@useless [tasks]" />
+      <item itemvalue="Gradle.@useless [jvmJar]" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.dev.mee42.MainKt" />
-        <item itemvalue="Gradle.chat.mee42 [run]" />
-        <item itemvalue="Kotlin script.scratch_5.kts" />
-        <item itemvalue="Gradle.chat.mee42 [jvmJar]" />
-        <item itemvalue="Gradle.chat.mee42 [compileTestKotlinJvm]" />
+        <item itemvalue="Gradle.@useless [jvmJar]" />
+        <item itemvalue="Gradle.@useless [tasks]" />
+        <item itemvalue="Gradle.@useless [jsPackageJson]" />
+        <item itemvalue="Gradle.@useless [jsMainClasses]" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +345,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:database.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@17593fbc" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@40506be5" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
             </expand>
             <select />
@@ -323,6 +376,10 @@
       <workItem from="1576027950925" duration="1187000" />
       <workItem from="1576099455607" duration="757000" />
       <workItem from="1576634400223" duration="2662000" />
+      <workItem from="1576720433609" duration="7000" />
+      <workItem from="1576793441621" duration="804000" />
+      <workItem from="1576794260613" duration="1400000" />
+      <workItem from="1576805333992" duration="3049000" />
     </task>
     <servers />
   </component>
@@ -334,66 +391,70 @@
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
     <state x="2233" y="226" width="940" height="728" key="#Project_Structure/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575937290699" />
-    <state x="2084" y="114" width="804" height="667" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575938323475">
+    <state x="2074" y="24" width="804" height="667" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576794872744">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state x="2084" y="114" width="804" height="667" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575938323475" />
+    <state x="2074" y="24" width="804" height="667" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576794872744" />
     <state x="2421" y="283" width="427" height="552" key="#com.intellij.ide.util.MemberChooser" timestamp="1575930017413">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
     <state x="2421" y="283" width="427" height="552" key="#com.intellij.ide.util.MemberChooser/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575930017413" />
+    <state x="2648" y="2" width="934" height="1161" key="DiffContextDialog" timestamp="1576793725657">
+      <screen x="1680" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2648" y="2" width="934" height="1161" key="DiffContextDialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576793725657" />
     <state x="2417" y="273" width="428" height="500" key="FileChooserDialogImpl" timestamp="1575938315772">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
     <state x="2417" y="273" width="428" height="500" key="FileChooserDialogImpl/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575938315772" />
-    <state width="1838" height="359" key="GridCell.Tab.0.bottom" timestamp="1576637173312">
+    <state width="1838" height="342" key="GridCell.Tab.0.bottom" timestamp="1576808554372">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="359" key="GridCell.Tab.0.bottom/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576637173312" />
-    <state width="1838" height="359" key="GridCell.Tab.0.center" timestamp="1576637173312">
+    <state width="1838" height="342" key="GridCell.Tab.0.bottom/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576808554372" />
+    <state width="1838" height="342" key="GridCell.Tab.0.center" timestamp="1576808554372">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="359" key="GridCell.Tab.0.center/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576637173312" />
-    <state width="1838" height="359" key="GridCell.Tab.0.left" timestamp="1576637173312">
+    <state width="1838" height="342" key="GridCell.Tab.0.center/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576808554372" />
+    <state width="1838" height="342" key="GridCell.Tab.0.left" timestamp="1576808554372">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="359" key="GridCell.Tab.0.left/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576637173312" />
-    <state width="1838" height="359" key="GridCell.Tab.0.right" timestamp="1576637173312">
+    <state width="1838" height="342" key="GridCell.Tab.0.left/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576808554372" />
+    <state width="1838" height="342" key="GridCell.Tab.0.right" timestamp="1576808554372">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="359" key="GridCell.Tab.0.right/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576637173312" />
-    <state width="1838" height="392" key="GridCell.Tab.1.bottom" timestamp="1575859416772">
+    <state width="1838" height="342" key="GridCell.Tab.0.right/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576808554372" />
+    <state width="1838" height="392" key="GridCell.Tab.1.bottom" timestamp="1576806739939">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="392" key="GridCell.Tab.1.bottom/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416772" />
-    <state width="1838" height="392" key="GridCell.Tab.1.center" timestamp="1575859416771">
+    <state width="1838" height="392" key="GridCell.Tab.1.bottom/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576806739939" />
+    <state width="1838" height="392" key="GridCell.Tab.1.center" timestamp="1576806739939">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="392" key="GridCell.Tab.1.center/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416771" />
-    <state width="1838" height="392" key="GridCell.Tab.1.left" timestamp="1575859416771">
+    <state width="1838" height="392" key="GridCell.Tab.1.center/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576806739939" />
+    <state width="1838" height="392" key="GridCell.Tab.1.left" timestamp="1576806739939">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="392" key="GridCell.Tab.1.left/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416771" />
-    <state width="1838" height="392" key="GridCell.Tab.1.right" timestamp="1575859416771">
+    <state width="1838" height="392" key="GridCell.Tab.1.left/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576806739939" />
+    <state width="1838" height="392" key="GridCell.Tab.1.right" timestamp="1576806739939">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="392" key="GridCell.Tab.1.right/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575859416771" />
+    <state width="1838" height="392" key="GridCell.Tab.1.right/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576806739939" />
     <state x="2221" y="303" width="828" height="513" key="IDE.errors.dialog" timestamp="1575944738522">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
     <state x="2221" y="303" width="828" height="513" key="IDE.errors.dialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575944738522" />
-    <state x="2130" y="91" width="1028" height="835" key="SettingsEditor" timestamp="1575937709304">
+    <state x="2124" y="37" width="1028" height="835" key="SettingsEditor" timestamp="1576806345122">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state x="2130" y="91" width="1028" height="835" key="SettingsEditor/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575937709304" />
+    <state x="2124" y="37" width="1028" height="835" key="SettingsEditor/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576806345122" />
     <state x="2426" y="345" width="417" height="428" key="chooseDestDirectoryDialog" timestamp="1575837943352">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
     <state x="2426" y="345" width="417" height="428" key="chooseDestDirectoryDialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575837943352" />
-    <state x="2418" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575943764511">
+    <state x="2416" y="466" width="433" height="150" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576793692284">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state x="2418" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575943764511" />
+    <state x="2416" y="466" width="433" height="150" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576793692284" />
     <state x="1963" y="292" width="1343" height="534" key="new project wizard" timestamp="1575843453942">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>

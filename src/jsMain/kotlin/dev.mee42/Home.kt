@@ -53,9 +53,9 @@ fun signInFormCall() {
 //                signInErrorText.textContent = error.message
 //                signInErrorText.classList.add("errored")
 //            }
-    GlobalScope.launch {
-        println("version:" + client.call("http://127.0.0.1:8081/api/version"){
-            method = HttpMethod.Get
-        }.response.call.receive<String>().fromJson<JsonObjects.VersionInformation>().version)
-    }
+//    GlobalScope.launch {
+//        println("version:" + client.call("http://127.0.0.1:8081/api/version"){
+//            method = HttpMethod.Get
+//        }.response.call.receive<String>().fromJson<JsonObjects.VersionInformation>().version)
+//    }
 }
