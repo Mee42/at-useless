@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/@useless.iml" filepath="$PROJECT_DIR$/.idea/@useless.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chat.mee42.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/chat.mee42.commonMain.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chat.mee42.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/chat.mee42.commonTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chat.mee42.jsMain.iml" filepath="$PROJECT_DIR$/.idea/modules/chat.mee42.jsMain.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chat.mee42.jsTest.iml" filepath="$PROJECT_DIR$/.idea/modules/chat.mee42.jsTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chat.mee42.jvmMain.iml" filepath="$PROJECT_DIR$/.idea/modules/chat.mee42.jvmMain.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chat.mee42.jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/chat.mee42.jvmTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/useless.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/useless.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/useless.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/useless.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/useless.jsMain.iml" filepath="$PROJECT_DIR$/.idea/modules/useless.jsMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/useless.jsTest.iml" filepath="$PROJECT_DIR$/.idea/modules/useless.jsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/useless.jvmMain.iml" filepath="$PROJECT_DIR$/.idea/modules/useless.jvmMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/useless.jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/useless.jvmTest.iml" />
     </modules>
   </component>
 </project>

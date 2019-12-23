@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module version="4">
-  <component name="ExternalSystem" externalSystemModuleType="sourceSet" />
   <component name="FacetManager">
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="Common (experimental) " allPlatforms="JS []/JVM [1.6]/Native []" useProjectSettings="false" isTestModule="true" externalProjectId="chat.mee42">
+      <configuration version="3" platform="Common (experimental) " allPlatforms="JS []/JVM [1.6]/Native []" useProjectSettings="false" isTestModule="true" externalProjectId="useless">
         <newMppModelJpsModuleKind>SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <externalSystemTestTasks>
-          <externalSystemTestTask>jsBrowserTest|chat.mee42:jsTest|js</externalSystemTestTask>
-          <externalSystemTestTask>jvmTest|chat.mee42:jvmTest|jvm</externalSystemTestTask>
+          <externalSystemTestTask>jsBrowserTest|useless:jsTest|js</externalSystemTestTask>
+          <externalSystemTestTask>jvmTest|useless:jvmTest|jvm</externalSystemTestTask>
         </externalSystemTestTasks>
         <compilerSettings />
         <compilerArguments>
@@ -32,5 +31,4 @@
       </configuration>
     </facet>
   </component>
-  <component name="TestModuleProperties" production-module="chat.mee42.commonMain" />
 </module>

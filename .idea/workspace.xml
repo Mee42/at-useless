@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba159991-6365-4341-9189-eb035469064c" name="Default Changelist" comment="">
+    <list default="true" id="cb68d1fd-840e-443d-9659-234fbb821d00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/@useless.useless.commonMain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/@useless.useless.commonTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/@useless.useless.jsMain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/@useless.useless.jsTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/@useless.useless.jvmMain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/@useless.useless.jvmTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jsMain/kotlin/dev.mee42/Index.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jsMain/kotlin/dev.mee42/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.5.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.5.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.5.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -13,12 +23,46 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/@useless.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/chat_mee42_js.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/chat_mee42_jvm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/delete_this_its_just_for_testing_js.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/delete_this_its_just_for_testing_jvm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/useless_js.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/useless_js.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/useless_jvm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/useless_jvm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/carson.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/carson.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/chat.mee42.commonMain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/chat.mee42.commonTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/chat.mee42.jsMain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/chat.mee42.jsTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/chat.mee42.jvmMain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/chat.mee42.jvmTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/useless.commonMain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/useless.commonMain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/useless.commonTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/useless.commonTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/useless.jsMain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/useless.jsMain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/useless.jsTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/useless.jsTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/useless.jvmMain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/useless.jvmMain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/useless.jvmTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/useless.jvmTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jsMain/kotlin/dev.mee42/Home.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jsMain/kotlin/dev.mee42/Home.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42/Params.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42/Params.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42/Util.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42/Util.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jvmMain/resources/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/resources/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jvmMain/resources/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/resources/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jvmMain/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/resources/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,28 +101,13 @@
         <item name="database.db" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
-        <item name="tokens: table" type="3d80ac25:SqliteImplModel$Table" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="database.db" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
         <item name="users: table" type="3d80ac25:SqliteImplModel$Table" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="database.db" type="feb32156:DbDataSourceImpl" />
-        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
     </expand>
     <select />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
-      <ProjectState />
-    </projectState>
-    <projectState path="$PROJECT_DIR$/../delete-this-its-just-for-testing">
       <ProjectState />
     </projectState>
   </component>
@@ -104,31 +133,7 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="useless" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="application" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="useless" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="useless" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build setup" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="useless" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="help" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="useless" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="nodejs" type="c8890929:TasksNode$1" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
@@ -162,23 +167,19 @@
   <component name="KonanWorkspace" KOTLIN_NATIVE_HOME="$USER_HOME$/.konan/kotlin-native-linux-1.3.61">
     <executables />
   </component>
-  <component name="ProjectId" id="1UiH6Jy2wmqCkRgY7aQw5Xht3XB" />
+  <component name="ProjectId" id="1VMH96gRHWjAoJJphwuTZM1v8Bo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DatabaseDriversLRU" value="mysql&#10;sqlite" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="/opt/android-sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="kotlin" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/commonMain/kotlin" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -187,66 +188,18 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15748031" />
-    <property name="project.structure.side.proportion" value="0.33036846" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/jvmMain/kotlin/dev/mee42" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/jvmMain/resources" />
-      <recent name="$PROJECT_DIR$/res" />
-      <recent name="$PROJECT_DIR$/src/jsMain/kotlin/dev.mee42" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Kotlin.dev.mee42.MainKt">
+  <component name="RunManager" selected="Gradle.@useless [run]">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="@useless [jsMainClasses]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="jsMainClasses" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="@useless [jsPackageJson]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="jsPackageJson" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
     </configuration>
     <configuration name="@useless [jvmJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -267,7 +220,7 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="@useless [tasks]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="@useless [jvmProcessResources]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -278,7 +231,45 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="tasks" />
+            <option value="jvmProcessResources" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="@useless [jvmSourcesJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jvmSourcesJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="@useless [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -294,14 +285,14 @@
       </method>
     </configuration>
     <configuration name="dev.mee42.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="useless.jvmMain" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
+      <module name="@useless.useless.jvmMain" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="dev.mee42.MainKt" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -316,19 +307,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Gradle.@useless [jsMainClasses]" />
-      <item itemvalue="Gradle.@useless [jsPackageJson]" />
-      <item itemvalue="Kotlin.dev.mee42.MainKt" />
-      <item itemvalue="Gradle.@useless [tasks]" />
       <item itemvalue="Gradle.@useless [jvmJar]" />
+      <item itemvalue="Gradle.@useless [jvmProcessResources]" />
+      <item itemvalue="Gradle.@useless [jvmSourcesJar]" />
+      <item itemvalue="Kotlin.dev.mee42.MainKt" />
+      <item itemvalue="Gradle.@useless [run]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.@useless [run]" />
         <item itemvalue="Kotlin.dev.mee42.MainKt" />
         <item itemvalue="Gradle.@useless [jvmJar]" />
-        <item itemvalue="Gradle.@useless [tasks]" />
-        <item itemvalue="Gradle.@useless [jsPackageJson]" />
-        <item itemvalue="Gradle.@useless [jsMainClasses]" />
+        <item itemvalue="Gradle.@useless [jvmSourcesJar]" />
+        <item itemvalue="Gradle.@useless [jvmProcessResources]" />
       </list>
     </recent_temporary>
   </component>
@@ -342,11 +333,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:database.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:database.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@40506be5" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -359,27 +345,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ba159991-6365-4341-9189-eb035469064c" name="Default Changelist" comment="" />
-      <created>1575832318042</created>
+      <changelist id="cb68d1fd-840e-443d-9659-234fbb821d00" name="Default Changelist" comment="" />
+      <created>1577055889114</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575832318042</updated>
-      <workItem from="1575832321068" duration="11133000" />
-      <workItem from="1575843562785" duration="186000" />
-      <workItem from="1575843750885" duration="1386000" />
-      <workItem from="1575851382618" duration="3809000" />
-      <workItem from="1575855441766" duration="105000" />
-      <workItem from="1575855560164" duration="3676000" />
-      <workItem from="1575925281647" duration="15000" />
-      <workItem from="1575927538050" duration="17701000" />
-      <workItem from="1576013732594" duration="604000" />
-      <workItem from="1576027950925" duration="1187000" />
-      <workItem from="1576099455607" duration="757000" />
-      <workItem from="1576634400223" duration="2662000" />
-      <workItem from="1576720433609" duration="7000" />
-      <workItem from="1576793441621" duration="804000" />
-      <workItem from="1576794260613" duration="1400000" />
-      <workItem from="1576805333992" duration="3049000" />
+      <updated>1577055889114</updated>
+      <workItem from="1577055890892" duration="490000" />
+      <workItem from="1577056386581" duration="545000" />
+      <workItem from="1577059725009" duration="421000" />
+      <workItem from="1577060388578" duration="281000" />
+      <workItem from="1577060686946" duration="5206000" />
     </task>
     <servers />
   </component>
@@ -387,81 +362,57 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2233" y="226" width="940" height="728" key="#Project_Structure" timestamp="1575937290699">
+    <state x="2203" y="197" width="804" height="667" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577064854598">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state x="2233" y="226" width="940" height="728" key="#Project_Structure/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575937290699" />
-    <state x="2074" y="24" width="804" height="667" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576794872744">
+    <state x="2203" y="197" width="804" height="667" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1577064854598" />
+    <state x="2368" y="333" width="529" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577061359465">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state x="2074" y="24" width="804" height="667" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576794872744" />
-    <state x="2421" y="283" width="427" height="552" key="#com.intellij.ide.util.MemberChooser" timestamp="1575930017413">
+    <state x="2368" y="333" width="529" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1577061359465" />
+    <state x="2417" y="286" width="428" height="474" key="FileChooserDialogImpl" timestamp="1577062341526">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state x="2421" y="283" width="427" height="552" key="#com.intellij.ide.util.MemberChooser/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575930017413" />
-    <state x="2648" y="2" width="934" height="1161" key="DiffContextDialog" timestamp="1576793725657">
+    <state x="2417" y="286" width="428" height="474" key="FileChooserDialogImpl/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1577062341526" />
+    <state width="1838" height="299" key="GridCell.Tab.0.bottom" timestamp="1577065540612">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state x="2648" y="2" width="934" height="1161" key="DiffContextDialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576793725657" />
-    <state x="2417" y="273" width="428" height="500" key="FileChooserDialogImpl" timestamp="1575938315772">
+    <state width="1838" height="299" key="GridCell.Tab.0.bottom/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1577065540612" />
+    <state width="1838" height="299" key="GridCell.Tab.0.center" timestamp="1577065540612">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state x="2417" y="273" width="428" height="500" key="FileChooserDialogImpl/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575938315772" />
-    <state width="1838" height="342" key="GridCell.Tab.0.bottom" timestamp="1576808554372">
+    <state width="1838" height="299" key="GridCell.Tab.0.center/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1577065540612" />
+    <state width="1838" height="299" key="GridCell.Tab.0.left" timestamp="1577065540611">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="342" key="GridCell.Tab.0.bottom/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576808554372" />
-    <state width="1838" height="342" key="GridCell.Tab.0.center" timestamp="1576808554372">
+    <state width="1838" height="299" key="GridCell.Tab.0.left/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1577065540611" />
+    <state width="1838" height="299" key="GridCell.Tab.0.right" timestamp="1577065540612">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="342" key="GridCell.Tab.0.center/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576808554372" />
-    <state width="1838" height="342" key="GridCell.Tab.0.left" timestamp="1576808554372">
+    <state width="1838" height="299" key="GridCell.Tab.0.right/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1577065540612" />
+    <state width="1838" height="391" key="GridCell.Tab.1.bottom" timestamp="1577062376588">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="342" key="GridCell.Tab.0.left/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576808554372" />
-    <state width="1838" height="342" key="GridCell.Tab.0.right" timestamp="1576808554372">
+    <state width="1838" height="391" key="GridCell.Tab.1.bottom/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1577062376588" />
+    <state width="1838" height="391" key="GridCell.Tab.1.center" timestamp="1577062376588">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="342" key="GridCell.Tab.0.right/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576808554372" />
-    <state width="1838" height="392" key="GridCell.Tab.1.bottom" timestamp="1576806739939">
+    <state width="1838" height="391" key="GridCell.Tab.1.center/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1577062376588" />
+    <state width="1838" height="391" key="GridCell.Tab.1.left" timestamp="1577062376588">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="392" key="GridCell.Tab.1.bottom/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576806739939" />
-    <state width="1838" height="392" key="GridCell.Tab.1.center" timestamp="1576806739939">
+    <state width="1838" height="391" key="GridCell.Tab.1.left/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1577062376588" />
+    <state width="1838" height="391" key="GridCell.Tab.1.right" timestamp="1577062376588">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="392" key="GridCell.Tab.1.center/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576806739939" />
-    <state width="1838" height="392" key="GridCell.Tab.1.left" timestamp="1576806739939">
+    <state width="1838" height="391" key="GridCell.Tab.1.right/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1577062376588" />
+    <state x="2199" y="11" key="SettingsEditor" timestamp="1577064836172">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="392" key="GridCell.Tab.1.left/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576806739939" />
-    <state width="1838" height="392" key="GridCell.Tab.1.right" timestamp="1576806739939">
+    <state x="2199" y="11" key="SettingsEditor/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1577064836172" />
+    <state x="2291" y="182" width="687" height="754" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577063256018">
       <screen x="1680" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="392" key="GridCell.Tab.1.right/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576806739939" />
-    <state x="2221" y="303" width="828" height="513" key="IDE.errors.dialog" timestamp="1575944738522">
-      <screen x="1680" y="0" width="1920" height="1200" />
-    </state>
-    <state x="2221" y="303" width="828" height="513" key="IDE.errors.dialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575944738522" />
-    <state x="2124" y="37" width="1028" height="835" key="SettingsEditor" timestamp="1576806345122">
-      <screen x="1680" y="0" width="1920" height="1200" />
-    </state>
-    <state x="2124" y="37" width="1028" height="835" key="SettingsEditor/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576806345122" />
-    <state x="2426" y="345" width="417" height="428" key="chooseDestDirectoryDialog" timestamp="1575837943352">
-      <screen x="1680" y="0" width="1920" height="1200" />
-    </state>
-    <state x="2426" y="345" width="417" height="428" key="chooseDestDirectoryDialog/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575837943352" />
-    <state x="2416" y="466" width="433" height="150" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576793692284">
-      <screen x="1680" y="0" width="1920" height="1200" />
-    </state>
-    <state x="2416" y="466" width="433" height="150" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1576793692284" />
-    <state x="1963" y="292" width="1343" height="534" key="new project wizard" timestamp="1575843453942">
-      <screen x="1680" y="0" width="1920" height="1200" />
-    </state>
-    <state x="1963" y="292" width="1343" height="534" key="new project wizard/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575843453942" />
-    <state x="2302" y="271" width="672" height="677" key="run.anything.popup" timestamp="1575934887473">
-      <screen x="1680" y="0" width="1920" height="1200" />
-    </state>
-    <state x="2302" y="271" width="672" height="677" key="run.anything.popup/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1575934887473" />
+    <state x="2291" y="182" width="687" height="754" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1680.0.1920.1200/0.0.1680.1050/3624.0.1920.1080@1680.0.1920.1200" timestamp="1577063256018" />
   </component>
 </project>

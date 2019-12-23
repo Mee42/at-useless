@@ -19,14 +19,18 @@ actual inline fun <reified T> String.fromJson():T {
     return internalGson.fromJson(this,T::class.java)
 }
 
-
-
-
 fun <T> T.applyIf(conditional: Boolean, block: T.() -> Unit):T{
     if(conditional) apply(block)
     return this
 }
 
-fun getResources(name: String, noDebug: Boolean = false): ByteArray =
-    if(!noDebug && Params.debugMode) File("src/jvmMain/resources/$name").readBytes() else
-        Object::getClass.javaClass.classLoader.getResourceAsStream(name)?.readAllBytes() ?: error("Can't read $name")
+object Util
+
+fun getResources(name: String, noDebug: Boolean = false): ByteArray {
+    return if(!noDebug && Params.debugMode) {
+        File("src/jvmMain/resources/$name").readBytes()
+    } else {
+        val stream = Util::class.java.classLoader.getResourceAsStream(name) ?: error("Can't read [$name]")
+        stream.readAllBytes()
+    }
+}

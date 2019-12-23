@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module version="4">
-  <component name="ExternalSystem" externalSystemModuleType="sourceSet" />
   <component name="FacetManager">
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="JavaScript " allPlatforms="JS []" useProjectSettings="false" isTestModule="false" externalProjectId="chat.mee42">
-        <dependsOnModuleNames>chat.mee42_commonMain</dependsOnModuleNames>
+      <configuration version="3" platform="JavaScript " allPlatforms="JS []" useProjectSettings="false" isTestModule="true" externalProjectId="useless">
+        <dependsOnModuleNames>useless_commonTest</dependsOnModuleNames>
         <sourceSets>
-          <sourceSet>chat.mee42.commonMain</sourceSet>
+          <sourceSet>@useless.useless.jsMain</sourceSet>
+          <sourceSet>@useless.useless.commonTest</sourceSet>
+          <sourceSet>@useless.useless.commonMain</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <externalSystemTestTasks>jsBrowserTest|useless:jsTest|js</externalSystemTestTasks>
         <compilerSettings />
         <compilerArguments>
-          <option name="outputFile" value="$MODULE_DIR$/../../build/js/packages/chat.mee42/kotlin/chat.mee42.js" />
+          <option name="outputFile" value="$MODULE_DIR$/../../build/js/packages/useless-test/kotlin/useless-test.js" />
           <option name="noStdlib" value="true" />
           <option name="sourceMap" value="true" />
           <option name="metaInfo" value="true" />

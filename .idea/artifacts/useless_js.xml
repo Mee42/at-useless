@@ -1,8 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="useless-js">
     <output-path>$PROJECT_DIR$/build/libs</output-path>
-    <root id="archive" name="useless-js.jar">
-      <element id="module-output" name="useless.jsMain" />
-    </root>
+    <root id="archive" name="useless-js.jar" />
   </artifact>
 </component>

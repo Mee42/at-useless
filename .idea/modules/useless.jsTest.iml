@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module version="4">
+  <component name="ExternalSystem" externalSystemModuleType="sourceSet" />
   <component name="FacetManager">
     <facet type="kotlin-language" name="Kotlin">
       <configuration version="3" platform="JavaScript " allPlatforms="JS []" useProjectSettings="false" isTestModule="true" externalProjectId="useless">
         <dependsOnModuleNames>useless_commonTest</dependsOnModuleNames>
         <sourceSets>
-          <sourceSet>useless.commonMain</sourceSet>
           <sourceSet>useless.commonTest</sourceSet>
+          <sourceSet>useless.commonMain</sourceSet>
           <sourceSet>useless.jsMain</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
@@ -44,4 +45,5 @@
       </configuration>
     </facet>
   </component>
+  <component name="TestModuleProperties" production-module="useless.jsMain" />
 </module>

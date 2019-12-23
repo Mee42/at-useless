@@ -11,7 +11,8 @@ html {
 	border-bottom: 2px solid white;
 	display: flex;
 	flex-direction: row;
-	align-content: center;	
+	align-content: center;
+	height: 100px;
 }
 
 #titlebar * {
@@ -78,7 +79,7 @@ html {
 
 
 #main {
-	margin-left: 0px;
+	margin-left: 0;
 	width: auto;
 	flex-grow: 2;
 	display: flex;
@@ -91,7 +92,11 @@ h1, h2, h3, h4, h5, p, button {
 }
 
 #messages {
-	flex-grow: 222;
+	min-height: 0;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	flex-grow: 2;
+	max-height: calc(100% - (1320px - 750px));
 }
 
 #messages ul {
@@ -121,10 +126,11 @@ h1, h2, h3, h4, h5, p, button {
 
 
 div#input-bar {
+
 	height: 100px;
 	background-color: #333333;
 	display: flex;
-	align-items: center;	
+	align-items: center;
 }
 
 

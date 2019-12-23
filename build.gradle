@@ -56,10 +56,9 @@ kotlin {
 
                 implementation "at.favre.lib:bcrypt:0.9.0" // bcrypt library
             }
-            resources {
-                srcDir = "src/jvmMain/resources"
-            }
+            resources.srcDir('src/jvmMain/resources/')
         }
+
         jvmTest {
             targetCompatibility = JavaVersion.VERSION_1_8
             dependencies {
@@ -75,6 +74,8 @@ kotlin {
                 api npm("text-encoding","0.7.0")
                 api npm("bufferutil","4.0.1")
                 api npm("abort-controller", "3.0.0")
+                api npm('utf-8-validate','5.0.2')
+//                api npm('fs','0.0.1')
             }
         }
         jsTest {

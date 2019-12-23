@@ -2,12 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="chat.mee42.jvmMain" target="1.6" />
-      <module name="chat.mee42.jvmTest" target="1.6" />
-      <module name="delete-this-its-just-for-testing.jvmMain" target="1.6" />
-      <module name="delete-this-its-just-for-testing.jvmTest" target="1.6" />
-      <module name="delete-this-its-just-for-testing_jvmMain" target="1.6" />
-      <module name="delete-this-its-just-for-testing_jvmTest" target="1.6" />
+      <module name="useless.jvmMain" target="1.8" />
+      <module name="useless.jvmTest" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

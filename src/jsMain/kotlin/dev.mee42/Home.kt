@@ -13,26 +13,16 @@ import org.w3c.dom.Element
 import kotlin.browser.*
 
 
-fun lazyId(id: String):Lazy<Element> {
-    return lazy { document.getElementById(id) ?: error("Can't find element $id") }
-}
-
-val dynStorage: dynamic
-    get() = window.asDynamic().kotlin
-
-fun main() {
-    window.asDynamic().kotlin = {}
-    println("home!")
+fun homeEntry() {
     dynStorage.yes ="yes"
     dynStorage.signInFormCall = ::signInFormCall
 }
 
-val client = HttpClient()
 
 //val signIn by lazyId("signin-form")
-val signInUsername by lazyId("signin-username")
-val signInPassword by lazyId("signin-password")
-val signInErrorText by lazyId("signin-error-text")
+private val signInUsername by lazyId<Element>("signin-username") // TODO change to proper type
+private val signInPassword by lazyId<Element>("signin-password")
+private val signInErrorText by lazyId<Element>("signin-error-text")
 
 @Suppress("unused")
 fun signInFormCall() {
