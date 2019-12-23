@@ -31,10 +31,6 @@ fun addNewMessage(author: String, content: String) {
         })
     }
     messageList.appendChild(newLi)
-    console.log(dyn {
-        this.author = author
-        this.content = content
-    } as? Any)
 }
 
 @Suppress("UNCHECKED_CAST")
