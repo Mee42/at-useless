@@ -1,6 +1,10 @@
 package dev.mee42
 
 import io.ktor.client.HttpClient
+import io.ktor.client.request.request
+import io.ktor.http.HttpMethod
+import kotlinx.coroutines.GlobalScope
+import kotlinx.coroutines.launch
 import org.w3c.dom.Element
 import org.w3c.dom.get
 import kotlin.browser.document
@@ -48,4 +52,10 @@ fun main() {
             }
         }
     })
+    GlobalScope.launch {
+        println("version: " +
+                client.request<String>("http://127.0.0.1:8081/api/version"){
+                    method = HttpMethod.Get
+                }.fromJson<JsonObjects.VersionInformation>().version)
+    }
 }

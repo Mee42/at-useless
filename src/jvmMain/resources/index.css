@@ -12,7 +12,8 @@ html {
 	display: flex;
 	flex-direction: row;
 	align-content: center;
-	height: 100px;
+	/*height: 100px;*/
+	height: 10vh;
 }
 
 #titlebar * {
@@ -88,10 +89,12 @@ h1, h2, h3, h4, h5, p, button {
 
 #messages {
 	/*min-height: 0;*/
-	overflow-x: hidden;
-	overflow-y: scroll;
 	flex-grow: 2;
-	/*max-height: calc(100% - (1320px - 750px));*/
+
+	height: 80vh;
+	overflow-x: hidden;
+
+	overflow-y: scroll;
 }
 
 #messages ul {
@@ -120,19 +123,22 @@ h1, h2, h3, h4, h5, p, button {
 
 
 div#input-bar {
-	height: 100px;
+	height: 10vh;
+	/*height: 100px;*/
 	background-color: #333333;
-	display: flex;
 	align-items: center;
 }
 
+#input-bar form {
+	display: flex;
+	flex-direction: row;
+}
 
 
 #text-input {
 	margin: 10px;
 	height: 50px;
 	flex-grow: 12;
-
 	border-radius: 10px;
 	resize: none;
 	vertical-align: middle;

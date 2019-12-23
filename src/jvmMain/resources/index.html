@@ -30,24 +30,23 @@
 	</div>
 	<div id="main">
 		<div id="input-bar">
-			<label><textarea id="text-input"></textarea></label>
-			<button id="submit-button">&gt;</button>
+
+			<form onsubmit="window.kotlin.submitCurrentMessage();return false;">
+				<label for="text-input"></label><input type="text" id="text-input"/>
+				<input type="submit" id="submit-button" value=">"/>
+			</form>
 		</div>
 		<div id="messages">
-			<ul id="message-list">
-				<li>
-					<div class="message">
-						<p class="message-author">arson</p>
-						<p class="message-content">content</p>
-					</div>
-				</li>
-				<li>
-					<div class="message">
-						<p class="message-author">arson</p>
-						<p class="message-content">content</p>
-					</div>
-				</li>
+			<div id="messages-div">
+				<ul id="message-list">
+<!--				<li>-->
+<!--					<div class="message">-->
+<!--						<p class="message-author">author</p>-->
+<!--						<p class="message-content">content</p>-->
+<!--					</div>-->
+<!--				</li>-->
 			</ul>
+			</div>
 		</div>
 	</div>
 	</div>

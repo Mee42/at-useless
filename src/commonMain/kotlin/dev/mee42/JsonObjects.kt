@@ -15,7 +15,7 @@ object JsonObjects {
     data class RegisterRequest(
         val username: String,
         val password: String,
-        val discordUsername: String)
+        val info: String)
     data class RequestErrorResponse(val message: String, val select: String)
     data class RequestResponse(val userID: Int, val token: String)
 }

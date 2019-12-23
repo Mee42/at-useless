@@ -2,8 +2,10 @@
   <dictionary name="carson">
     <words>
       <w>bcrypt</w>
+      <w>discrim</w>
       <w>gson</w>
       <w>ohno</w>
+      <w>ratelimit</w>
       <w>signin</w>
     </words>
   </dictionary>

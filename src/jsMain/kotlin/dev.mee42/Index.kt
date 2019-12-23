@@ -4,16 +4,20 @@ import org.w3c.dom.*
 import kotlin.browser.document
 
 fun indexEntry(){
-    submitButton.onclick = {
-        textEntry.value
-            .takeUnless { it.isBlank() }
-            ?.let { content ->
-                addNewMessage(
-                    author = "Arson#yes",
-                    content = content
-                )
-            }
-    }
+    submitButton.onclick = {submitCurrentMessage()}
+    dynStorage.submitCurrentMessage = { submitCurrentMessage() }
+}
+
+fun submitCurrentMessage(){
+    textEntry.value
+        .takeUnless { it.isBlank() }
+        ?.let { content ->
+            addNewMessage(
+                author = "Author Placeholder",
+                content = content
+            )
+            textEntry.value = ""
+        }
 }
 
 fun addNewMessage(author: String, content: String) {
@@ -31,6 +35,8 @@ fun addNewMessage(author: String, content: String) {
         })
     }
     messageList.appendChild(newLi)
+    newLi.scrollIntoView(dyn { behavior = "smooth" })
+//    messageList.scrollTo(0.0, messageList.scrollHeight.toDouble())
 }
 
 @Suppress("UNCHECKED_CAST")
